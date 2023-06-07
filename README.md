@@ -1,7 +1,7 @@
 # GA-C
 Latest version of code: 30th May 2023.
 
-An implementation of a genetic algorithm in C. This was intended for use in the paper:_______.
+An implementation of a genetic algorithm in C. This was intended for use in the paper: https://arxiv.org/abs/2306.03147
 
 The code is designed to be flexible, wherein different environments can be easily switched out.
 
