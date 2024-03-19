@@ -14,7 +14,7 @@ There is currently one example environment that was used for the paper mentioned
 If you use this code, please cite the following bib entries:
 
 ```
-@article{githubcGA,
+@article{GApackageC,
    author = "Abel, Steven and Constantin, Andrei and Harvey, Thomas R. and Lukas, Andre and Nutricati, Luca A.",
    title = {A realisation of genetic algorithms in C},   
    month = {April},
