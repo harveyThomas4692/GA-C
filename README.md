@@ -19,6 +19,7 @@ If you use this code, please cite the following bib entries:
    title = {A realisation of genetic algorithms in C},   
    month = {April},
    year = {2023},
-   url = {https://github.com/harveyThomas4692/GA-C}
+   url = {https://github.com/harveyThomas4692/GA-C},
+   note = {https://github.com/harveyThomas4692/GA-C}
 }
 ```
